@@ -372,13 +372,13 @@ p{
     #training{
         padding: 4rem 0;
     }
-    .encriptador{
+    .proyect{
         display: flex;
         flex-direction: row;
         padding-bottom:2rem ;
     }
    
-    .Landing{
+    .proyect-reverse{
         display: flex;
         flex-direction: row-reverse;
     }
